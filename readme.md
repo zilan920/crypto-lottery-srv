@@ -10,3 +10,9 @@
   - support multi chain
   - support telegram bot
   - customize goroutine number
+  - support eth endpoints (etherscan api currently)
+
+- more
+  - generate bloom filter to check balance instead of using endpoint
+  - what is best way to store rainbow table of blockchain ?
+  
