@@ -12,7 +12,8 @@
   - customize goroutine number
   - support eth endpoints (etherscan api currently)
 
-- more
+- Thinking...
   - generate bloom filter to check balance instead of using endpoint
   - what is best way to store rainbow table of blockchain ?
+  - essentially private key is just a big number, how would those been using private key distributed over all key range ? this could help us design better `random` algorithm 
   
