@@ -11,6 +11,7 @@
   - support telegram bot
   - customize goroutine number
   - support eth endpoints (etherscan api currently)
+  - important: implement distributed system to calculated on different machine, like zookeeper ?
 
 - Thinking...
   - generate bloom filter to check balance instead of using endpoint
